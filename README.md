@@ -1,10 +1,10 @@
 # Cisco Packet Tracer ile Ağ Simülasyonu Projeleri
 Bu proje, Cisco Packet Tracer kullanılarak yapılan çeşitli ağ simülasyonlarını içermektedir. Her bir simülasyon senaryosu, belirli bir ağ konfigürasyonunu veya protokolü ele almaktadır. Aşağıda, projelerin listesi ve kısa açıklamaları bulunmaktadır:
 
-1. 500 PC Personel ve 50 PC Misafir Simülasyonu
+###1. 500 PC Personel ve 50 PC Misafir Simülasyonu
 Bu simülasyon senaryosu, 500 PC'ye sahip bir personel ağı ve 50 PC'lik bir misafir ağı içermektedir. VLAN'lar, IP adresleme ve ağ segmentasyonu gibi temel ağ konfigürasyonları üzerinde çalışılmaktadır.
 
-2. Multi-Area OSPF Simülasyonu
+### 2. Multi-Area OSPF Simülasyonu
 Bu simülasyon senaryosu, OSPF yönlendirme protokolünün çoklu alan (multi-area) yapılandırmasını ele almaktadır. Farklı alanlar arasında yönlendirme ve bağlantılar yapılandırılarak ağın ölçeklenebilirliği sağlanmaktadır.
 
 3. NAT Konfigürasyonu Simülasyonu
