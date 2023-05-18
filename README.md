@@ -1,5 +1,4 @@
-# my_projects_cisco_packet_tracer
-Cisco Packet Tracer ile Ağ Simülasyonu Projeleri
+# Cisco Packet Tracer ile Ağ Simülasyonu Projeleri
 Bu proje, Cisco Packet Tracer kullanılarak yapılan çeşitli ağ simülasyonlarını içermektedir. Her bir simülasyon senaryosu, belirli bir ağ konfigürasyonunu veya protokolü ele almaktadır. Aşağıda, projelerin listesi ve kısa açıklamaları bulunmaktadır:
 
 1. 500 PC Personel ve 50 PC Misafir Simülasyonu
