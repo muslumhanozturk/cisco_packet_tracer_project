@@ -31,5 +31,5 @@ Bu simülasyon senaryosu, standart yönlendirme ve genişletilmiş (extended) Ac
 ### 10. Static RIP Yönlendirme Simülasyonu
 Bu simülasyon senaryosu, Static Routing Information Protocol (RIP) kullanılarak yönlendirme yapılandırmasını ele almaktadır. Manuel olarak tanımlanan statik rotaların nasıl oluşturulduğu ve ağdaki yönlendirme tablolarının nasıl güncellendiği simüle edilmektedir.
 
-Kurulum
+### Kurulum
 Proje dosyalarını bilgisayarınıza indirin ve Cisco Packet Tracer'ı başlatın. Packet Tracer uygulamasında her bir simülasyon senaryosunu açarak ağ konfigürasyonlarını ve yapılandırmalarını inceleyebilirsiniz.
